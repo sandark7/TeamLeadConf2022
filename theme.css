@@ -37,7 +37,7 @@ blockquote:before {
   margin-left: 30px;
 }
 .slide.rbn::after {
-  background: #3877b7;
+  background: #74b3d4;
 }
 .slide::before {
   position: absolute;
@@ -99,7 +99,7 @@ blockquote:before {
   color: #999;
 }
 .progress:before {
-  background: #aa3d37;
+  background: #60309a;
 }
 .tag {
   color: #ad1531;
@@ -139,7 +139,7 @@ blockquote:before {
 }
 .slide.label-header h2 {
   display: inline-block;
-  background-color: #aa3d37;
+  background-color: #60309a;
   color: #fff;
   padding: 10px 15px 15px;
   font-family: 'a_BosaNova', sans-serif;
