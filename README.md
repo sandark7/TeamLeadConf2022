@@ -1,4 +1,4 @@
-# Матрица: Воскрешение
+# Тимлид как интервьюер
 
 Слайды к выступлению на [TeamLead Conf Foundation 2022](https://teamleadconf.ru/moscow/2022/abstracts/8483)
 
